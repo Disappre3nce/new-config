@@ -1,3 +1,3 @@
 # new-config
 
-my hyprland config and wallpapers (nsfw)
+my hyprland config
